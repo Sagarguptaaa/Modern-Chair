@@ -441,12 +441,3 @@ h5 {
 .for-color-6:checked ~ .info-wrap .btn:before {
   background-color: #5d6160;
 }
-
-.faded-text {
-  z-index: 10;
-  font-size: 2.5rem;
-  font-weight: 700;
-  position: absolute;
-  bottom: -1%;
-  color: rgba(231, 231, 231, 0.212);
-}
